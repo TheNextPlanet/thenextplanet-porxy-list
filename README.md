@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="assets/alien-icon-512.png" alt="The Next Planet" width="400">
+  <img src="assets/alien-icon-512.png" alt="The Next Planet" width="200">
 </p>
 
 # The Next Planet 🌎

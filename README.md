@@ -1,3 +1,11 @@
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Proxies](https://img.shields.io/badge/proxies-7%2B-blue)
+![Updated](https://img.shields.io/badge/updated-daily-orange)
+![Countries](https://img.shields.io/badge/countries-30%2B-purple)
+
+
+![The Next Planet Banner](assets/banner.png)
+
 # The Next Planet 🌎
 
 ### Your Gateway to Unlimited Entertainment

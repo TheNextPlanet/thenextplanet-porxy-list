@@ -4,11 +4,6 @@
 ![Countries](https://img.shields.io/badge/countries-30%2B-purple)
 
 
-
-<p align="center">
-  <img src="assets/alien-icon-512.png" alt="The Next Planet" width="100">
-</p>
-
 # The Next Planet 🌎
 
 ### Your Gateway to Unlimited Entertainment
@@ -19,6 +14,10 @@ The Next Planet is a community-driven platform that helps users discover movies,
 
 ---
 
+<p align="center">
+  <img src="assets/alien-icon-512.png" alt="The Next Planet" width="100">
+</p>
+---
 ## What is The Next Planet?
 
 The internet is filled with thousands of entertainment sources spread across different websites and platforms.

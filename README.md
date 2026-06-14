@@ -4,7 +4,7 @@
 
 The Next Planet is a community-driven platform that helps users discover movies, TV series, live channels, sports, apps, and digital entertainment from across the web.
 
-🔗 Official Website: https://www.thenextworld.shop
+🔗 Official Website: https://www.thenextworld.site
 
 ---
 
@@ -76,7 +76,7 @@ We welcome feedback, suggestions, and contributions from users around the world.
 
 ## Website
 
-🌎 https://www.thenextworld.shop
+🌎 https://www.thenextworld.site
 
 ---
 

@@ -4,7 +4,10 @@
 ![Countries](https://img.shields.io/badge/countries-30%2B-purple)
 
 
-![The Next Planet Banner](assets/alien-icon-512.png)
+
+<p align="center">
+  <img src="assets/alien-icon-512.png" alt="The Next Planet" width="400">
+</p>
 
 # The Next Planet 🌎
 

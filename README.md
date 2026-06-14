@@ -19,13 +19,6 @@ The Next Planet is a community-driven platform that helps users discover movies,
 </p>
 
 
-## Contents
-
-- [Features](#features)
-- [How It Works](#how-it-works)
-- [Working Mirrors](#working-mirrors)
-- [Statistics](#statistics)
-
 ## 🎁 What is The Next Planet?
 
 The internet is filled with thousands of entertainment sources spread across different websites and platforms.
